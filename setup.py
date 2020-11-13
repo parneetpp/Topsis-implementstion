@@ -5,6 +5,8 @@ setup(
     packages=["TOPSIS-PARNEET-101803281"],
     version="0.1",
     description="TOPSIS IMPLEMENTAION python package ",
+    long_description=readme(),
+    long_description_content_type="text/markdown",
     url="https://github.com/parneetpp/Topsis-implementstion",
     download_url="https://github.com/parneetpp/Topsis-implementstion/archive/v_01.tar.gz",
     author="Parneet Singh",
