@@ -6,7 +6,7 @@ setup(
     version="0.1",
     description="TOPSIS IMPLEMENTAION python package ",
     url="https://github.com/parneetpp/Topsis-implementstion",
-    download_url="https://github.com/jasmehakKaur/TOPSIS_PYTHON/archive/v_0.1.tar.gz",
+    download_url="https://github.com/parneetpp/Topsis-implementstion/archive/v_01.tar.gz",
     author="Parneet Singh",
     author_email="psingh3_be18@thapar.edu",
     license="MIT",
